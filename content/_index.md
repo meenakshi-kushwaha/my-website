@@ -1,7 +1,7 @@
 ---
 title: "Meenakshi Kushwaha"
 subtitle: "Co-Founder @ ILK Labs"
-description: "I am an environmental health researcher, consultant and educator. I am passionate about open science and love teaching R for data analysis, visualization, and reporting."
+description: "I am an environmental health researcher, consultant and educator. Read about my work on pollution inequities in the [New York Times](https://www.nytimes.com/interactive/2020/12/17/world/asia/india-pollution-inequality.html). I am passionate about open science and love teaching R for data analysis, visualization, and reporting."
 date: 2019-02-18T12:27:33-06:00
 images:
   - img/bio.jpg
