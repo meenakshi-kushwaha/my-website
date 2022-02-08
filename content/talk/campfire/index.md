@@ -1,30 +1,29 @@
 ---
-title: "A campfire"
-subtitle: "Testing"
-excerpt: "Here is a talk I gave on making awesome personal websites using Hugo, blogdown, GitHub, and Netlify."
-date: 2021-01-12
-date_end: "2021-01-13"
+title: "UseR! 2021 Keynote"
+subtitle: "Answering questions about air quality, one code at a time"
+excerpt: "Here is a talk I gave on how we use R to solve for air quality data analysis."
+date: 2021-07-06
+# date_end: "2021-01-13"
 show_post_time: false
-event: "rstudio::global(2021)"
-event_url: https://global.rstudio.com
-author: "Alison Hill"
-location: "Sydney, Australia"
+event: "UseR! 2021"
+event_url: https://user2021.r-project.org/
+author: "Meenakshi Kushwaha"
+location: "Online"
 draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
-- workshop
+- keynote
 links:
 - icon: door-open
   icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
-- icon: github
+  name: slides
+  url: https://user2021kushwaha.netlify.app/#1
+- icon: youtube
   icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
+  name: video
+  url: https://www.youtube.com/watch?v=Hhw18gUyhy0
+  
+  
 ---
 
-{{< here >}}
-
-I'm really excited to give this talk! Stay tuned for video and slides.
