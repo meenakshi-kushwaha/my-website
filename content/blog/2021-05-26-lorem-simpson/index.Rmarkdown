@@ -1,9 +1,9 @@
 ---
-title: "Lorem Simpson"
+title: "How did I make this website"
 subtitle: ""
 excerpt: "An .Rmarkdown post"
-date: 2021-05-26
-author: "Alison Hill"
+date: 2022-02-05
+author: "Meenakshi Kushwaha"
 draft: false
 images:
 series:
@@ -13,6 +13,9 @@ layout: single
 ---
 
 {{< here >}}
+
+## Tutorial link
+https://www.youtube.com/watch?v=RksaNh5Ywbo
 
 ## Some penguins to start
 
