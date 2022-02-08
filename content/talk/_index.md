@@ -1,7 +1,6 @@
 ---
-title: Talks that Last
+title: Talks and Workshops
 description: |
-  A list of my talks and workshops.
 author: "Meenakshi Kushwaha"
 show_post_thumbnail: true
 show_author_byline: true
