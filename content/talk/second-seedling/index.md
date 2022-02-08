@@ -1,16 +1,21 @@
 ---
-title: "A seedling"
-subtitle: "Testing"
-excerpt: "Yet another idea"
-date: 2021-01-01T14:15:59-06:00
-date_end: "2021-01-01T14:45:59-06:00"
-author: "Alison Hill"
+title: "Data Visualization workshop for WAQSA"
+subtitle: 
+excerpt: "Data Viz workshop for the Women of Air Quality in South Asia (WAQSA) group and R-Ladies Bangalore"
+date: 2020-10-17
+date_end: 
+author: "Meenakshi Kushwaha"
 location: "Online"
 draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
-- meetup
+- workshop
+
+links:
+- icon: github
+  icon_pack: fab
+  name: github
+  url: https://github.com/meenakshi-kushwaha/workshop_waqsa_rladiesblr
 ---
 
-{{< here >}}
