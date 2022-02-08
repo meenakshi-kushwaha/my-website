@@ -1,19 +1,20 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Emily Cooper"
-role: "Social media strategy @ Savoir"
+author: "Meenakshi Kushwaha"
+role: "Co-Founder @ [ILK Labs](https://www.ilklabs.com)"
 avatar_shape: rounded # circle, square, rounded
 show_social_links: true # specify social accounts in site config
-show_audio_link: true
+show_audio_link: false
 audio_link_label: "How to say my name"
-link_list_label: "Interests" # bookmarks, elsewhere, etc.
+link_list_label: "Affiliations" # bookmarks, elsewhere, etc.
 link_list:
-- name: Paris
-  url: https://en.wikipedia.org/wiki/Paris
-- name: Pastries
-  url: https://en.wikipedia.org/wiki/Pastry
-- name: People
-  url: https://en.wikipedia.org/wiki/People
+- name: ILK Labs
+  url: https://www.ilklabs.com
+- name: University of Washington
+  url: https://deohs.washington.edu/
+- name: Grand Challenges Impact Lab
+  url: https://www.gcil.uw.edu/
+
 ---
 
 ** index doesn't contain a body, just front matter above.
