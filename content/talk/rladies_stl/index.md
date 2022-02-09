@@ -1,7 +1,7 @@
 ---
 title: "Data Visualization with `ggplot2`"
 subtitle: "R-Ladies St. Louis"
-excerpt: Data viz workshop
+excerpt: Workshop for R-Ladies, St. Louis"
 date: 2020-10-10
 # date_end: "2020-01-15T14:45:59-06:00"
 author: "Meenakshi Kushwaha"
@@ -29,4 +29,4 @@ links:
 
 ---
 
-{{< here >}}
+
