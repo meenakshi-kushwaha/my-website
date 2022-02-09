@@ -11,7 +11,7 @@ link_list:
 - name: ILK Labs
   url: https://www.ilklabs.com
 - name: Tidy Tuesday Project 
-  url:https://github.com/rfordatascience/tidytuesday
+  url: https://github.com/rfordatascience/tidytuesday
 - name: ISEE
   url: https://www.iseepi.org/
 ---
