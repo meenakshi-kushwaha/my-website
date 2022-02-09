@@ -8,8 +8,8 @@ show_audio_link: false
 audio_link_label: "How to say my name"
 link_list_label: "Bookmarks" # bookmarks, elsewhere, etc.
 link_list:
-- name: ILK Labs
-  url: https://www.ilklabs.com
+- name: MiR community
+  url: https://mircommunity.com/about/
 - name: Tidy Tuesday Project 
   url: https://github.com/rfordatascience/tidytuesday
 - name: ISEE
